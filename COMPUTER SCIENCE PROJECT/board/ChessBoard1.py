@@ -2,18 +2,6 @@ import pygame
 
 pygame.display.set_caption("ChessMania")
 
-x = 50
-y = 50
-width =  64
-height = 64
-vel = 5
-
-run= True
-while run:
-    pygame.time.delay(100)
-
-    pygame.draw
-
 
 
 def draw_board(the_board):
